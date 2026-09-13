@@ -1,7 +1,9 @@
 {
   "name": "mk-poshak-inventory",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "private": true,
   "description": "MK POSHAK HOUSE inventory with Supabase and Vercel",
-  "scripts": { "build": "node scripts/build.mjs" }
+  "scripts": {
+    "build": "echo Static app ready"
+  }
 }
